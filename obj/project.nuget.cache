@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MVVVUYfizg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phuoc Lam\\src\\webapidemo\\webapidemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\namotion.reflection\\3.4.2\\namotion.reflection.3.4.2.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\njsonschema\\11.4.0\\njsonschema.11.4.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\njsonschema.annotations\\11.4.0\\njsonschema.annotations.11.4.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\njsonschema.newtonsoftjson\\11.4.0\\njsonschema.newtonsoftjson.11.4.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\njsonschema.yaml\\11.4.0\\njsonschema.yaml.11.4.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.annotations\\14.5.0\\nswag.annotations.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.aspnetcore\\14.5.0\\nswag.aspnetcore.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.core\\14.5.0\\nswag.core.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.core.yaml\\14.5.0\\nswag.core.yaml.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.generation\\14.5.0\\nswag.generation.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\nswag.generation.aspnetcore\\14.5.0\\nswag.generation.aspnetcore.14.5.0.nupkg.sha512",
+    "C:\\Users\\Phuoc Lam\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
