@@ -41,3 +41,9 @@ C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\YamlDotNet.dll
 C:\Users\Phuoc Lam\src\webapidemo\obj\Debug\net9.0\webapidemo.csproj.AssemblyReference.cache
 C:\Users\Phuoc Lam\src\webapidemo\obj\Debug\net9.0\webapidemo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Phuoc Lam\src\webapidemo\obj\Debug\net9.0\webapidemo.csproj.Up2Date
+C:\Users\Phuoc Lam\src\webapidemo\obj\Debug\net9.0\webapidemo.sourcelink.json
+C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\client\package-lock.json
+C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\client\package.json
+C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\client\tsconfig.app.json
+C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\client\tsconfig.json
+C:\Users\Phuoc Lam\src\webapidemo\bin\Debug\net9.0\client\tsconfig.node.json
